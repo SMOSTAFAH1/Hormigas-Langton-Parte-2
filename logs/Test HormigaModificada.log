@@ -1,0 +1,30 @@
+
+💚 [3mThanks for using JUnit![23m[0m Support its development at [4mhttps://junit.org/sponsoring[24m[0m
+
+Se ha comenzado a ejecutar los Tests de HormigaModificada
+Ejecucion de los Tests completada
+JUnit Jupiter > TestHormigaModificada > La hormiga modificada lanza una excepcion si el color no es correcto :: STARTED
+[1mJUnit Jupiter > TestHormigaModificada > La hormiga modificada lanza una excepcion si el color no es correcto :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormigaModificada > Comprobacion de girar :: STARTED
+[1mJUnit Jupiter > TestHormigaModificada > Comprobacion de girar :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormigaModificada > Comprobacion de tick :: STARTED
+[1mJUnit Jupiter > TestHormigaModificada > Comprobacion de tick :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormigaModificada > La hormiga modificada solo debe sobrescribir girar, solamente eso :: STARTED
+[1mJUnit Jupiter > TestHormigaModificada > La hormiga modificada solo debe sobrescribir girar, solamente eso :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormigaModificada > El constructor existe, HormigaModificada hereda de Hormiga y se inicializa :: STARTED
+[1mJUnit Jupiter > TestHormigaModificada > El constructor existe, HormigaModificada hereda de Hormiga y se inicializa :: SUCCESSFUL[0m
+
+Test run finished after 295 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         5 tests found           ]
+[         0 tests skipped         ]
+[         5 tests started         ]
+[         0 tests aborted         ]
+[         5 tests successful      ]
+[         0 tests failed          ]
+

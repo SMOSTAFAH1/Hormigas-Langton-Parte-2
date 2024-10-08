@@ -1,0 +1,32 @@
+
+💚 [3mThanks for using JUnit![23m[0m Support its development at [4mhttps://junit.org/sponsoring[24m[0m
+
+Se ha comenzado a ejecutar los Tests de CuadriculaTresColores
+Ejecucion de los Tests completada
+JUnit Jupiter > TestCuadriculaTresColores > Se lanza la excepcion cuando se sobrepasa DIM en filas :: STARTED
+[1mJUnit Jupiter > TestCuadriculaTresColores > Se lanza la excepcion cuando se sobrepasa DIM en filas :: SUCCESSFUL[0m
+JUnit Jupiter > TestCuadriculaTresColores > Se lanza la excepcion cuando se sobrepasa DIM en filas :: STARTED
+[1mJUnit Jupiter > TestCuadriculaTresColores > Se lanza la excepcion cuando se sobrepasa DIM en filas :: SUCCESSFUL[0m
+JUnit Jupiter > TestCuadriculaTresColores > Se lanza la excepcion cuando es negativo en filas :: STARTED
+[1mJUnit Jupiter > TestCuadriculaTresColores > Se lanza la excepcion cuando es negativo en filas :: SUCCESSFUL[0m
+JUnit Jupiter > TestCuadriculaTresColores > Las casillas de la cuadricula cambian segun lo esperado :: STARTED
+[1mJUnit Jupiter > TestCuadriculaTresColores > Las casillas de la cuadricula cambian segun lo esperado :: SUCCESSFUL[0m
+JUnit Jupiter > TestCuadriculaTresColores > Se lanza la excepcion cuando es negativo en filas :: STARTED
+[1mJUnit Jupiter > TestCuadriculaTresColores > Se lanza la excepcion cuando es negativo en filas :: SUCCESSFUL[0m
+JUnit Jupiter > TestCuadriculaTresColores > Se pueden construir Cuadricula y tiene casillas :: STARTED
+[1mJUnit Jupiter > TestCuadriculaTresColores > Se pueden construir Cuadricula y tiene casillas :: SUCCESSFUL[0m
+
+Test run finished after 292 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         6 tests found           ]
+[         0 tests skipped         ]
+[         6 tests started         ]
+[         0 tests aborted         ]
+[         6 tests successful      ]
+[         0 tests failed          ]
+
